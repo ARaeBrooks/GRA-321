@@ -1,9 +1,15 @@
-* {
 
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+body{
+  background-color: DarkKhaki
+  color: AliceBlue
+  font-family: 'Source Code Pro', monospace;
 }
 
 h1 {
-font-family: 'Source Code Pro', monospace;
+  background-color: DarkKhaki
+  color: AliceBlue
+  font-family: 'Source Code Pro', monospace;
 }
 button {
 position : relative;
@@ -25,8 +31,8 @@ z-index : 1;
 cursor : pointer;
 transition : 0.08s ease-in;
 }
-.fill:hover {
-color : whitesmoke;
+.padding-hover:hover {
+ color : whitesmoke;
 }
 .fill:before {
 content : "";
