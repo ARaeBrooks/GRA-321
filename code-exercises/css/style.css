@@ -3,17 +3,17 @@
 body{
   background-color: DarkKhaki
   color: AliceBlue
-  font-family: 'Source Code Pro', monospace;
+  font-family: "Source Code Pro", monospace;
 }
 h1{
   background-color: DarkKhaki
   color: AliceBlue
-  font-family: 'Source Code Pro', monospace;
+  font-family: "Source Code Pro", monospace;
 }
 a{
   background-color: DarkKhaki
   color: AliceBlue
-  font-family: 'Source Code Pro', monospace;
+  font-family: "Source Code Pro", monospace;
 }
 .padding-hover:hover{
   background-color: HotPink;
