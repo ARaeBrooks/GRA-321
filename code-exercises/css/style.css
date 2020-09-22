@@ -1,19 +1,19 @@
 /*--import source code for body and headings--*/
-@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&family=Source+Sans+Pro&display=swap');
 body{
   background-color: DarkKhaki
   color: AliceBlue
-  font-family: "Source Code Pro", sans-serif;
+  font-family: 'Source Code Pro', monospace;
 }
 h1{
   background-color: DarkKhaki
   color: AliceBlue
-  font-family: "Source Code Pro", sans-serif;
+  font-family: 'Source Code Pro', monospace;
 }
 a{
   background-color: DarkKhaki
   color: AliceBlue
-  font-family: "Source Code Pro", sans-serif;
+  font-family: 'Source Code Pro', monospace;
 }
 .padding-hover:hover{
   background-color: HotPink;
