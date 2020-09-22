@@ -21,10 +21,11 @@ a{
   padding:1em 2em 1em 2em;
 }
 .container {
-  background-image: url(https://showandtellartanddesign.com/wp-content/uploads/2015/02/BUN-SQUAD.jpg);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+  background-image:url(https://araebrooks.files.wordpress.com/2017/09/moodboard6.jpg?w=450&h=562);
+  background-size:cover;
+  height: 700px;
+  margin: 0 auto;
+  width:50%;
 }
 /*--Media Queries--*/
 @media screen and (max-width:1000px){
