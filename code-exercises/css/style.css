@@ -37,4 +37,18 @@ a{
   body{
     background-color:white;
   }
+  /*--Magazine Spread--*/
+  @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+  body{
+  font-family: 'Merriweather', serif;
+  font-size: 10px;
+}
+.row {
+  display: flex;
+}
+.column {
+  flex: 50%;
+}
+h2 {
+ font-size: 8px;
 }
