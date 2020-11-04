@@ -1,6 +1,4 @@
-*{
 
-}
 @import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap');
 
 body {
@@ -16,7 +14,7 @@ body {
   padding: 20px auto;
 }
 
-.nav-bar a  {
+.nav-bar a {
   width:100%;
   color: #F5EEEE;
   text-decoration: none;
