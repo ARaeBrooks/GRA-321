@@ -11,10 +11,10 @@ body {
   width: 100%;
   background-color: #F23AD9;
   text-align: center;
-  padding: 20px;
+  padding: 20px auto;
 }
 
-.nav-bar a {
+.nav-bar a  {
   width:100%;
   color: #F5EEEE;
   text-decoration: none;
@@ -38,12 +38,19 @@ html {
   font-size: 16px;
   box-sizing: border-box;
 }
+
+/*
+codepen reset styles
+*/
+
 li, ul, p {
   margin: 0;
   padding: 0;
 }
 
 body {
+  font-family: 'Cutive Mono', monospace;
+  font-size: 16px;
   width:100%;
   background-color: white;
   margin:0px;
@@ -69,7 +76,7 @@ section h1, p, ul, li {
 .iced-drinks, .hot-drinks, .intro {
   width:85%;
   margin: 0 auto;
-  color:
+  color: white;
 }
 
  .menu-item-row {
@@ -94,5 +101,5 @@ section h1, p, ul, li {
 .menu-item-row ul li {
   width:30%;
   display:inline-block;
-}
+}  
 }
