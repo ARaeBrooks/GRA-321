@@ -28,7 +28,7 @@ h1 {
 }
 
 .nav-bar:first-child, .nav-bar:first-child {
-  padding: 10px 0px;
+  padding: 00px 0px;
 }
 
 @media only screen and (min-width:400px) {
@@ -44,7 +44,7 @@ h1 {
   color: black;
   font-size:16px;
   font-weight: bold;
-  padding: 10px;
+  padding: 700px
   width: 80%;
 }
 
