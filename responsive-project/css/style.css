@@ -2,8 +2,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap');
 
 body {
-  margin: 0;
-  padding: 0;
+  margin: 50px;
+  padding: 50px;
+}
+
+h1 {
+  color: black;
+  font-size:12px;
+  padding: 70px
+
 }
 
 .nav-bar {
@@ -11,12 +18,12 @@ body {
   width: 100%;
   background-color: #F23AD9;
   text-align: center;
-  padding: 20px auto;
+  padding: 30px auto;
 }
 
 .nav-bar a  {
   width:100%;
-  color: #F5EEEE;
+  color: white;
   text-decoration: none;
 }
 
@@ -32,10 +39,18 @@ body {
   .nav-bar:first-child, .nav-bar:first-child {
   padding: 0px 0px;
 }
-  }
+
+  h2 {
+  color: black;
+  font-size:16px;
+  font-weight: bold;
+  padding: 700px
+  width: 80%;
+}
+
 html {
   font-family: 'Cutive Mono', monospace;
-  font-size: 16px;
+  font-size: 15px;
   box-sizing: border-box;
 }
 
@@ -45,12 +60,13 @@ codepen reset styles
 
 li, ul, p {
   margin: 0;
-  padding: 0;
+  padding: 0px;
 }
 
 body {
   font-family: 'Cutive Mono', monospace;
   font-size: 16px;
+  font-weight: regular;
   width:100%;
   background-color: white;
   margin:0px;
@@ -59,23 +75,18 @@ body {
 
 section {
   background-color: white;
-  width: 100%;
+  width: 80%;
   margin: 0 auto;
   position: relative;
 }
 
-h1 {
-  color: black;
-  font-size:16px;
-}
-
-section h1, p, ul, li {
+section p, ul, li {
   color: black;
 }
 
-.iced-drinks, .hot-drinks, .intro {
+.drink-menu,  {
   width:85%;
-  margin: 0 auto;
+  margin: 30 auto;
   color: white;
 }
 
@@ -92,14 +103,30 @@ section h1, p, ul, li {
 }
 
 .menu-item-row ul {
-  width:60%;
+  width:90%;
   list-style-type: none;
   float: right;
   text-align:right;
 }
 
 .menu-item-row ul li {
-  width:30%;
+  width:15%;
   display:inline-block;
-}  
+}
+
+h3 {
+  color: black;
+  font-size:16px;
+  font-weight: bold;
+  padding: 700px
+  width: 80%;
+  }
+
+ h4 {
+  color: black;
+  font-size:16px;
+  font-weight: bold;
+  padding: 700px
+  width: 80%;
+  }
 }
