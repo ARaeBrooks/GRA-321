@@ -1,21 +1,20 @@
 
 
+
 @import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap');
 
 body {
   margin: 50px;
   padding: 50px;
 }
-
 img {
   max-width: 100%;
   height: auto;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
-}
 
+}
 h1 {
   color: black;
   font-size:12px;
@@ -55,7 +54,7 @@ h1 {
   font-size:16px;
   font-weight: bold;
   padding: 10px;
-  width: 80%;
+  width: 90%;
 }
 
 html {
@@ -94,13 +93,13 @@ section p, ul, li {
 }
 
 .drink-menu  {
-  width:85%;
-  margin: 10px auto;
+  width:85% auto;
+  margin: 10px;
   color: white;
 }
 
  .menu-item-row {
-  width: 100%;
+  width:70%;
   display:flex;
   justify-content: space-between;
   align-items:flex-start;
@@ -108,7 +107,7 @@ section p, ul, li {
 }
 
 .menu-item-row p {
-  width:30%;
+  width:60%;
 }
 
 .menu-item-row ul {
