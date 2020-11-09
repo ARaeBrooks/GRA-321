@@ -67,7 +67,7 @@ codepen reset styles
 
 li, ul, p {
   margin: 0;
-  padding: 0px;
+  padding: 0;
 }
 
 body {
@@ -81,7 +81,7 @@ body {
 
 section {
   background-color: white;
-  width: 80%;
+  width: 100%;
   margin: 0 auto;
   position: relative;
 }
@@ -92,7 +92,7 @@ section p, ul, li {
 
 .drink-menu  {
   width:85% auto;
-  margin: 10px;
+  margin: 0 auto;
   color: white;
 }
 
@@ -101,7 +101,7 @@ section p, ul, li {
   display:flex;
   justify-content: space-between;
   align-items:flex-start;
-  padding: 20 0 1rem 0;
+  padding: 0 0 1rem 0;
 }
 
 .menu-item-row p {
