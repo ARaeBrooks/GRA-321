@@ -68,6 +68,7 @@ codepen reset styles
 li, ul, p {
   margin: 0;
   padding: 0;
+text-align: center;
 }
 
 body {
